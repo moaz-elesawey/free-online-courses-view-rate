@@ -1,4 +1,4 @@
 # Free Online Courses View Rate
 
 ## View Rate
-![View Rate](./view_rate.jpg)
+![View Rate](view_rate.jpg)
